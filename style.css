@@ -2,9 +2,18 @@ p {
   color: blue; font-size:20px
 }
 
+h1 {
+  color: black;
+  background-color: red;
+  text-align: center;
+  font-size: 100px
+}
+
 body {
   margin: 50px green
   padding: 50px
   width: 500px;
   border: 50px groove coral;
 }
+
+background-color
