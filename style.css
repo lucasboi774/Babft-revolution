@@ -12,6 +12,6 @@ h1 {
 body {
   margin: 50px green
   padding: 37px
-  width: 500px;
-  border: 50px #BE4CC4;
+  width: 300px;
+  border: 50px groove #BE4CC4;
 }
