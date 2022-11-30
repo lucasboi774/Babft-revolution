@@ -6,14 +6,12 @@ h1 {
   color: black;
   background-color: red;
   text-align: center;
-  font-size: 100px
+  font-size: 20px
 }
 
 body {
   margin: 50px green
   padding: 50px
   width: 500px;
-  border: 50px groove coral;
+  border: 50px groove green;
 }
-
-background-color
